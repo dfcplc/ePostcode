@@ -1,0 +1,19 @@
+{
+    "name": "dfcplc/epostcode",
+    "description": "ePostcode Bank Account Validation",
+    "license": "MIT",
+    "keywords": ["epostcode", "postcode"],
+    "authors": [
+        {
+            "name": "Matt Clements",
+            "email": "matt.clements@debitfinance.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Dfcplc\\ePostcode\\": "src"
+        }
+    }
+}
