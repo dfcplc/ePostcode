@@ -1,0 +1,2191 @@
+object(stdClass)#2 (5) {
+  ["ok"]=>
+  bool(true)
+  ["error_message"]=>
+  string(0) ""
+  ["log_message"]=>
+  string(0) ""
+  ["addresses"]=>
+  array(30) {
+    [0]=>
+    object(stdClass)#37 (6) {
+      ["company"]=>
+      string(13) "The Alexander"
+      ["address1"]=>
+      string(21) "26-28, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [1]=>
+    object(stdClass)#38 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "30A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [2]=>
+    object(stdClass)#39 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "32A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [3]=>
+    object(stdClass)#40 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "38A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [4]=>
+    object(stdClass)#41 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "42A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [5]=>
+    object(stdClass)#42 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "44A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [6]=>
+    object(stdClass)#43 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(19) "46A, Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [7]=>
+    object(stdClass)#44 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(27) "Flat 4-9, 22 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [8]=>
+    object(stdClass)#45 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 1, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [9]=>
+    object(stdClass)#46 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(42) "Flat 10, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [10]=>
+    object(stdClass)#47 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(42) "Flat 11, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [11]=>
+    object(stdClass)#48 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(42) "Flat 12, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [12]=>
+    object(stdClass)#49 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 2, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [13]=>
+    object(stdClass)#50 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 3, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [14]=>
+    object(stdClass)#51 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 4, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [15]=>
+    object(stdClass)#52 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 5, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [16]=>
+    object(stdClass)#53 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 6, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [17]=>
+    object(stdClass)#54 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 7, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [18]=>
+    object(stdClass)#55 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 8, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [19]=>
+    object(stdClass)#56 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(41) "Flat 9, Sanditon Court, 24 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [20]=>
+    object(stdClass)#57 (6) {
+      ["company"]=>
+      string(20) "Upholstery Warehouse"
+      ["address1"]=>
+      string(17) "30 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [21]=>
+    object(stdClass)#58 (6) {
+      ["company"]=>
+      string(13) "Loran Cake Co"
+      ["address1"]=>
+      string(17) "32 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [22]=>
+    object(stdClass)#59 (6) {
+      ["company"]=>
+      string(14) "Frenches Autos"
+      ["address1"]=>
+      string(17) "34 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [23]=>
+    object(stdClass)#60 (6) {
+      ["company"]=>
+      string(14) "Barbers Lounge"
+      ["address1"]=>
+      string(17) "36 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [24]=>
+    object(stdClass)#61 (6) {
+      ["company"]=>
+      string(21) "Emmi & Iggs Deli Cafe"
+      ["address1"]=>
+      string(17) "38 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [25]=>
+    object(stdClass)#62 (6) {
+      ["company"]=>
+      string(13) "Golden Bengal"
+      ["address1"]=>
+      string(17) "40 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [26]=>
+    object(stdClass)#63 (6) {
+      ["company"]=>
+      string(18) "Wong Sing Takeaway"
+      ["address1"]=>
+      string(17) "42 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [27]=>
+    object(stdClass)#64 (6) {
+      ["company"]=>
+      string(20) "Lyndhurst Washeteria"
+      ["address1"]=>
+      string(17) "44 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [28]=>
+    object(stdClass)#65 (6) {
+      ["company"]=>
+      string(11) "Post Office"
+      ["address1"]=>
+      string(17) "46 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+    [29]=>
+    object(stdClass)#66 (6) {
+      ["company"]=>
+      string(0) ""
+      ["address1"]=>
+      string(17) "48 Lyndhurst Road"
+      ["address2"]=>
+      string(0) ""
+      ["town"]=>
+      string(8) "Worthing"
+      ["county"]=>
+      string(6) "Sussex"
+      ["postcode"]=>
+      string(8) "BN11 2DF"
+    }
+  }
+  ["response"]=>
+  object(stdClass)#4 (1) {
+    ["GetPremiseAddressesFromPostcodeAndHouseNumberResult"]=>
+    object(stdClass)#5 (5) {
+      ["List"]=>
+      object(stdClass)#6 (1) {
+        ["AddressPremise"]=>
+        array(30) {
+          [0]=>
+          object(stdClass)#7 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336675"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(13) "The Alexander"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(5) "26-28"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1E"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(88) "\r\nThe Alexander\r\n26-28\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [1]=>
+          object(stdClass)#8 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336677"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "30A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2A"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n30A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [2]=>
+          object(stdClass)#9 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336679"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "32A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2B"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n32A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [3]=>
+          object(stdClass)#10 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336683"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "38A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2D"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n38A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [4]=>
+          object(stdClass)#11 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336686"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "42A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2E"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n42A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [5]=>
+          object(stdClass)#12 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336688"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "44A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2F"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n44A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [6]=>
+          object(stdClass)#13 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336690"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(3) "46A"
+            ["Number"]=>
+            string(1) " "
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2L"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(69) "\r\n46A\r\n \r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [7]=>
+          object(stdClass)#14 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "53247414"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(8) "Flat 4-9"
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "22"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "3G"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(75) "\r\nFlat 4-9\r\n22\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [8]=>
+          object(stdClass)#15 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336673"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 1"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2P"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 1\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [9]=>
+          object(stdClass)#16 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340940"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(7) "Flat 10"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2Z"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(92) "\r\nFlat 10\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [10]=>
+          object(stdClass)#17 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340941"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(7) "Flat 11"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "3A"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(92) "\r\nFlat 11\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [11]=>
+          object(stdClass)#18 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340942"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(7) "Flat 12"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "3B"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(92) "\r\nFlat 12\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [12]=>
+          object(stdClass)#19 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340932"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 2"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2Q"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 2\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [13]=>
+          object(stdClass)#20 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340933"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 3"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2R"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 3\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [14]=>
+          object(stdClass)#21 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340934"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 4"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2S"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 4\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [15]=>
+          object(stdClass)#22 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340935"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 5"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2T"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 5\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [16]=>
+          object(stdClass)#23 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340936"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 6"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2U"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 6\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [17]=>
+          object(stdClass)#24 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340937"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 7"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2W"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 7\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [18]=>
+          object(stdClass)#25 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340938"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 8"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2X"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 8\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [19]=>
+          object(stdClass)#26 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "51340939"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(6) "Flat 9"
+            ["Building_Name"]=>
+            string(14) "Sanditon Court"
+            ["Number"]=>
+            string(2) "24"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2Y"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(91) "\r\nFlat 9\r\nSanditon Court\r\n24\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [20]=>
+          object(stdClass)#27 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336676"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(20) "Upholstery Warehouse"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "30"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1F"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(87) "\r\nUpholstery Warehouse\r\n30\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [21]=>
+          object(stdClass)#28 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336678"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(13) "Loran Cake Co"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "32"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1G"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(80) "\r\nLoran Cake Co\r\n32\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [22]=>
+          object(stdClass)#29 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336680"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(14) "Frenches Autos"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "34"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1H"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(81) "\r\nFrenches Autos\r\n34\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [23]=>
+          object(stdClass)#30 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336681"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(14) "Barbers Lounge"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "36"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1J"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(81) "\r\nBarbers Lounge\r\n36\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [24]=>
+          object(stdClass)#31 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336682"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(21) "Emmi & Iggs Deli Cafe"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "38"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1L"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(88) "\r\nEmmi & Iggs Deli Cafe\r\n38\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [25]=>
+          object(stdClass)#32 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336684"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(13) "Golden Bengal"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "40"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1N"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(80) "\r\nGolden Bengal\r\n40\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [26]=>
+          object(stdClass)#33 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336685"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(18) "Wong Sing Takeaway"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "42"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1P"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(85) "\r\nWong Sing Takeaway\r\n42\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [27]=>
+          object(stdClass)#34 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336687"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(20) "Lyndhurst Washeteria"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "44"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1Q"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(87) "\r\nLyndhurst Washeteria\r\n44\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [28]=>
+          object(stdClass)#35 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336671"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(11) "Post Office"
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "46"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "2N"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(78) "\r\nPost Office\r\n46\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+          [29]=>
+          object(stdClass)#36 (27) {
+            ["Unique_Delivery_Point"]=>
+            string(8) "02336691"
+            ["Organisation_Department"]=>
+            string(0) ""
+            ["Organisation"]=>
+            string(0) ""
+            ["Sub_Building_Name"]=>
+            string(0) ""
+            ["Building_Name"]=>
+            string(0) ""
+            ["Number"]=>
+            string(2) "48"
+            ["Dependent_Street"]=>
+            string(0) ""
+            ["Street"]=>
+            string(14) "Lyndhurst Road"
+            ["Double_Dependent_Locality"]=>
+            string(0) ""
+            ["Dependent_Locality"]=>
+            string(0) ""
+            ["Post_Town"]=>
+            string(8) "Worthing"
+            ["County_LocalAuthority"]=>
+            string(0) ""
+            ["County_Administrative"]=>
+            string(11) "West Sussex"
+            ["County_FormerPostal"]=>
+            string(0) ""
+            ["County_Traditional"]=>
+            string(6) "Sussex"
+            ["Country"]=>
+            string(7) "England"
+            ["Postcode"]=>
+            string(8) "BN11 2DF"
+            ["Post_Office_Box"]=>
+            string(0) ""
+            ["User_Category"]=>
+            string(0) ""
+            ["Mailsort_Sortcode"]=>
+            string(5) "80227"
+            ["Delivery_Point_Suffix"]=>
+            string(2) "1S"
+            ["Latitude_Degrees"]=>
+            string(0) ""
+            ["Longitude_Degrees"]=>
+            string(0) ""
+            ["IsError"]=>
+            bool(false)
+            ["ErrorMessage"]=>
+            string(0) ""
+            ["FullAddress"]=>
+            string(63) "\r\n48\r\nLyndhurst Road\r\nWorthing\r\nEngland\r\nBN11 2DF\r\n"
+            ["Return_Code"]=>
+            string(1) "1"
+          }
+        }
+      }
+      ["IsError"]=>
+      bool(false)
+      ["IsTruncated"]=>
+      bool(false)
+      ["RecCount"]=>
+      string(2) "30"
+      ["ErrorMessage"]=>
+      string(0) ""
+    }
+  }
+}
