@@ -57,8 +57,15 @@ class ePostcode
 					$address_details = new \stdClass();
 
 					$address_details->company = trim((string) $address->Organisation);
-					$address_details->address1 = trim((string) $address->Number.' '.(string) $address->Street);
-					$address_details->address2 = trim((string) $address->Dependent_Locality);
+
+					if(isset($address->Building_Name) && trim((string) $address->Building_Name)!=="") {
+						$address_details->address1 = trim((string) $address->Building_Name).', '.trim((string) $address->Number.' '.(string) $address->Street);
+						$address_details->address2 = trim((string) $address->Dependent_Locality);
+					} else {
+						$address_details->address1 = trim((string) $address->Number.' '.(string) $address->Street);
+						$address_details->address2 = trim((string) $address->Dependent_Locality);
+					}
+					
 					$address_details->town = trim((string) $address->Post_Town);
 					$address_details->county = trim((string) $address->County_Traditional);
 					$address_details->postcode = trim((string) $address->Postcode);
@@ -69,8 +76,15 @@ class ePostcode
 				$address_details = new \stdClass();
 
 				$address_details->company = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Organisation);
-				$address_details->address1 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Number.' '.(string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Street);
-				$address_details->address2 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Dependent_Locality);
+
+				if(isset($response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Building_Name) && trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Building_Name)!=="") {
+					$address_details->address1 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Building_Name).', '.trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Number.' '.(string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Street);
+					$address_details->address2 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Dependent_Locality);
+				} else {
+					$address_details->address1 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Number.' '.(string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Street);
+					$address_details->address2 = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Dependent_Locality);
+				}
+
 				$address_details->town = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Post_Town);
 				$address_details->county = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->County_Traditional);
 				$address_details->postcode = trim((string) $response->GetPremiseAddressesFromPostcodeAndHouseNumberResult->List->AddressPremise->Postcode);
